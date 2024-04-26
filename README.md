@@ -16,6 +16,12 @@ The goal of this project is to demonstrate the application of logistic regressio
 
 The RT-IoT2022 dataset used in this project is designed specifically for real-time intrusion detection tasks within IoT networks. The dataset comprises a broad spectrum of internet traffic samples, categorized into normal operations and various attack scenarios.
 
+## Dataset
+
+The RT-IoT2022 dataset used in this project is designed specifically for real-time intrusion detection tasks within IoT networks. The dataset comprises a broad spectrum of internet traffic samples, categorized into normal operations and various attack scenarios. The dataset can be accessed and downloaded from the following link:
+
+[RT-IoT2022 Dataset](https://archive.ics.uci.edu/dataset/942/rt-iot2022)
+
 ## Installation
 
 To set up this project locally, follow these steps:
